@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{6FE12DCE-3F79-494F-64F7-38AF27ADE59C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Breakout/Assets/playerControl.cs">
+    <Files>
+      <File FileName="Assets/Assets/Scripts/playerControls.cs" Line="36" Column="13" />
+      <File FileName="Assets/Assets/Scripts/DestroyOnContact.cs" Line="2" Column="15" />
+      <File FileName="Assets/Assets/Scripts/RestartButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Assets/Scripts/ScoreOnContact.cs" Line="18" Column="1" />
+      <File FileName="Assets/Assets/Scripts/TreasureSpawner.cs" Line="44" Column="10" />
+      <File FileName="Assets/SpawnTreasure.cs" Line="11" Column="1" />
+      <File FileName="../Breakout/Assets/playerControl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
